@@ -95,17 +95,7 @@ lib/
 └── main.dart           # Başlangıç noktası
 ```
 
-## ⚠️ Güvenlik Uyarısı
 
-Lütfen **Google Maps API Key**'inizi asla GitHub gibi halka açık depolara (public repository) yüklemeyin. API anahtarınızı `local.properties` gibi dosyalarda saklayın ve bu dosyaların `.gitignore` listesinde olduğundan emin olun.
-
-## 🤝 Katkıda Bulunma
-
-1.  Bu repoyu Fork'layın.
-2.  Yeni bir özellik dalı (branch) oluşturun (`git checkout -b ozellik/YeniOzellik`).
-3.  Değişikliklerinizi Commit yapın (`git commit -m 'Yeni özellik eklendi'`).
-4.  Dalınızı (branch) Push yapın (`git push origin ozellik/YeniOzellik`).
-5.  Bir Pull Request (PR) oluşturun.
 
 ## 📄 Lisans
 
